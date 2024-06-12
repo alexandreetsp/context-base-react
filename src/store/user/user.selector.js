@@ -1,0 +1,1 @@
+export const SelectorUser = (state) => state.user.currentUser
